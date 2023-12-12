@@ -17,7 +17,7 @@
 </li>
 <li>
   <p></p>
-  🧑‍💻 I used to work at Tencent/WXG/WeCom, now working at MoeGo/Lyft-Team(Payment).
+  🧑‍💻 🦐
 </li>
 <p></p>
 </ul>
